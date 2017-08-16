@@ -1,8 +1,9 @@
-#Data Science Intro
+# Data Science Intro
 
 #### Data Cleaning
 #### Data and Feature Transformations 
 #### Data Modeling
+#### Data Visualizations
 
 
 ## Requirements
